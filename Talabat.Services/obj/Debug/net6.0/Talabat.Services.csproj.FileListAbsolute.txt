@@ -1,0 +1,69 @@
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\7.MVC\ProjectMvc\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session2\demo2 API\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.dll
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.pdb
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+D:\route (backend)\8.Api\session4\task4Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CopyComplete
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.dll
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.pdb
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CopyComplete
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session5\Task5APi\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.core.pdb
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CopyComplete
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\route (backend)\8.Api\session6\Demo6Api\Talabat.APIs .Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
