@@ -1,6 +1,6 @@
 # Talabat Web Application API  
 
-🚀 **A scalable and maintainable Talabat-like API built with ASP.NET Core using Onion Architecture.**  
+###🚀 **A scalable and maintainable Talabat-like API built with ASP.NET Core using Onion Architecture.**  
 
 ## **🛠 Technologies Used**  
 -**Backend:** ASP.NET Core API, Entity Framework Core, SQL Server  
